@@ -1,0 +1,19 @@
+{
+  "name": "school_schedule",
+  "version": "1.0.0",
+  "description": "An application to show what is my schedule for the current weekday.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samukxs/school_schedule.git"
+  },
+  "author": "Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samukxs/school_schedule/issues"
+  },
+  "homepage": "https://github.com/Samukxs/school_schedule#readme"
+}
